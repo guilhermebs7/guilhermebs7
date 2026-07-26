@@ -1,8 +1,3 @@
-<div align="center">
-
-# Olá, eu sou Guilherme! 👋
-
-</div>
 
 
 ### 💻 Linguagens
